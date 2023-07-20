@@ -1,16 +1,10 @@
-Apologies for the confusion earlier. Below is a template for the README file for the "Tic Tac Toe GUI" project based on the GitHub repository you provided:
-
-```markdown
 # Tic Tac Toe GUI
 
 A simple Tic Tac Toe game implemented with a graphical user interface (GUI) using Python and Tkinter.
 
-![Tic Tac Toe GUI Screenshot](screenshot.png)
-
 ## Table of Contents
 
 - [About](#about)
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,10 +14,6 @@ A simple Tic Tac Toe game implemented with a graphical user interface (GUI) usin
 ## About
 
 Tic Tac Toe GUI is a basic implementation of the popular Tic Tac Toe game designed to be played against another human player on a Tkinter-based graphical user interface. The project was developed as part of a learning exercise for Python and GUI programming.
-
-## Demo
-
-![Tic Tac Toe GUI Demo](demo.gif)
 
 ## Features
 
@@ -62,6 +52,9 @@ The game window will open, allowing you to play Tic Tac Toe against another huma
 Contributions are welcome! If you find any issues or want to enhance the project, please submit a pull request. Before contributing, make sure to read the [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
+
+
+This project is licensed under the [MIT License](LICENSE).
 
 This project is licensed under the [MIT License](LICENSE).
 ```
