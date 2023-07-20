@@ -55,8 +55,6 @@ Contributions are welcome! If you find any issues or want to enhance the project
 
 
 This project is licensed under the [MIT License](LICENSE).
-
-This project is licensed under the [MIT License](LICENSE).
 ```
 
 Please ensure to update the content with specific details about your project and customize it according to your needs. If you have any specific questions or need further assistance, feel free to ask!
